@@ -66,6 +66,7 @@ public class StringLinkedList {
         stringLinkedList.add("5");
 
         System.out.println("🚀 GitHub портфолио!");
+        System.out.println("🚀 GitHub тест!");
         System.out.println(stringLinkedList.get(0)); // должно вывести "1"
         System.out.println(stringLinkedList.get(2)); // должно вывести "3"
         System.out.println(stringLinkedList.get(4)); // должно вывести "5"
